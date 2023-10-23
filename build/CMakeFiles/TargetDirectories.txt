@@ -1,0 +1,3 @@
+/Users/dajawhite/Desktop/sentimentanalysis/build/CMakeFiles/sentiment.dir
+/Users/dajawhite/Desktop/sentimentanalysis/build/CMakeFiles/edit_cache.dir
+/Users/dajawhite/Desktop/sentimentanalysis/build/CMakeFiles/rebuild_cache.dir

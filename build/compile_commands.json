@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/dajawhite/Desktop/sentimentanalysis/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/main.cpp.o -c /Users/dajawhite/Desktop/sentimentanalysis/main.cpp",
+  "file": "/Users/dajawhite/Desktop/sentimentanalysis/main.cpp"
+},
+{
+  "directory": "/Users/dajawhite/Desktop/sentimentanalysis/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wextra -pedantic -std=gnu++17 -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /Users/dajawhite/Desktop/sentimentanalysis/DSString.cpp",
+  "file": "/Users/dajawhite/Desktop/sentimentanalysis/DSString.cpp"
+}
+]
